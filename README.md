@@ -1,6 +1,6 @@
 # Deployment Pipeline Service - Version Final (Resolved by PM: Collaborator A & B)
 <h1 align="center" id="title">Activity Log</h1>
-
+> **Project Notice**: This repository demonstrates CI automated testing, collaboration workflows, and merge strategies.
 ![activity log](https://socialify.git.ci/TheDanniCraft/activity-log/image?forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66677362&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
 
 <p align="center">
