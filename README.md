@@ -290,7 +290,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 Wrote a blog post about activity-log? [Open an issue](https://github.com/TheDanniCraft/activity-log/issues/new) and share the article link.
 
-
+---
+## License & Contributors
+Licensed under MIT. Contributed by the Deployment-Pipeline team.
 
 
 
